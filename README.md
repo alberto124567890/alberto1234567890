@@ -12,4 +12,4 @@ Sou estudante do terceiro ano do ensino médio integrado<br> ao curso técnico d
 ---
 [![](https://visitcount.itsvg.in/api?id=alberto1234567890&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->v
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
